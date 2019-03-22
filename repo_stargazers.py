@@ -11,7 +11,7 @@ import time
 access_token = <FILL IN>
 repo = "minimaxir/big-list-of-naughty-strings"
 
-fields = ["user_id", "username", "num_followers", "num_following", "num_repos","created_at","star_time"]
+fields = ["user_id", "username", "num_followers", "num_following", "num_repos","created_at","star_time", "email"]
 page_number = 0
 users_processed = 0
 stars_remaining = True
